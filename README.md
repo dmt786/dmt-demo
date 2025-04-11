@@ -1,2 +1,2 @@
-# dmt-demo
+# Dmt demo
 first repository
